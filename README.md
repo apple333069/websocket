@@ -6,6 +6,6 @@
   *多對多聊天  
   *廣播、收聽
 
-### demo-1  
+### demo  
 ![image](https://github.com/apple333069/websocket/blob/main/websocket_demo.png)  
 
